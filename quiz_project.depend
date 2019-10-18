@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1563383480 source:c:\users\paul uzeh\documents\quiz_project\function.cpp
+	<iostream>
+	"header.h"
+
+1563383204 c:\users\paul uzeh\documents\quiz_project\header.h
+
+1563384288 source:c:\users\paul uzeh\documents\quiz_project\main.cpp
+	<iostream>
+	"header.h"
+
+1563384288 source:c:\users\paul uzeh\documents\quiz_project\nigerian_history.cpp
+	<iostream>
+	"header.h"
+
+1563384288 source:c:\users\paul uzeh\documents\quiz_project\african tradition.cpp
+	<iostream>
+	"header.h"
+
+1563386743 source:c:\users\paul uzeh\documents\quiz_project\unilag.cpp
+	<iostream>
+	"header.h"
+
